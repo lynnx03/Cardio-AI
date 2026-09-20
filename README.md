@@ -140,10 +140,6 @@ Covers every endpoint (happy path + edge cases) and verifies label-encoding corr
 
 > *This repository is my own cleaned-up copy of the group project, maintained for portfolio purposes.*
 
-## 🌍 SDG Alignment
-
-**SDG 3 — Good Health and Well-Being:** promotes preventive health care by making preliminary heart-disease risk assessment easier to access.
-
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
